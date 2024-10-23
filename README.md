@@ -39,7 +39,7 @@ This project provides a user-friendly tool to calculate the total cost of a 3D p
 
 ## Icon and Image Attribution
 
-- **[Icons](https://www.flaticon.com/free-icons/money)** created by [Freepik](https://www.flaticon.com/authors/freepik) - Flaticon
+- **Icons** created by [Freepik](https://www.flaticon.com/authors/freepik) - Flaticon
 
 ## License
 
