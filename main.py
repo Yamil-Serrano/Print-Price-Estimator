@@ -76,7 +76,7 @@ entry_minutes = ttk.Entry(input_frame)
 entry_minutes.grid(column=2, row=3, padx=5, pady=5)
 
 ttk.Label(input_frame, image=icon_electricity_price).grid(column=0, row=4, padx=5, pady=5, sticky='e')
-ttk.Label(input_frame, text="Electricity price ($/kWh):").grid(column=1, row=4, padx=5, pady=5, sticky='w')
+ttk.Label(input_frame, text="Electricity price (¢/kWh):").grid(column=1, row=4, padx=5, pady=5, sticky='w')
 entry_electricity_price = ttk.Entry(input_frame)
 entry_electricity_price.grid(column=2, row=4, padx=5, pady=5)
 
